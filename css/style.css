@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.first{
+    overflow: hidden;
+    text-align: center;
+    height: 700px;
+}
+.part1{
+    overflow: hidden;
+    float: left;
+    width: 70%;
+} 
+.p1-upper{
+    height: 200px;
+    overflow: hidden;
+}
+.side1{
+    background-color: cornsilk;
+    height: 200px;
+    width: 88%;
+    float: left;
+}
+.side2{
+    width: 12%;
+    float: right;
+    background-color: rgb(252, 192, 212);
+    height: 200px;
+}
+.p1-lower{
+    overflow: hidden;
+
+}
+.a{
+    overflow: hidden;
+    width: 40%;
+    float: left;
+}
+.a-up{
+    height: 100px;
+    background-color: rgb(179, 230, 129); 
+
+}
+.a-low{
+    height: 400px;
+    background-color: rgb(202, 159, 238);
+}
+.b{
+    overflow: hidden;
+    width: 60%;
+    float: left;
+}
+.b1{
+    
+    height: 400px;
+    overflow: hidden;
+}
+.b1-part1{
+    background-color: rgb(252, 192, 212);
+    height: 400px;
+    float: left;
+    width: 20%;
+
+}
+.b1-part2{
+    height: 400px;
+    overflow: hidden;
+    float: left;
+    width: 60%;
+
+}
+.b1-part2-up{
+    background-color: rgb(179, 230, 129);
+    height: 100px;
+
+}
+.b1-part2-low{
+    background-color: rgb(238, 167, 117);
+    height: 300px;
+
+
+}
+.b1-part3{
+    float: right;
+    height: 400px;
+    overflow: hidden;
+    width: 20%;
+
+}
+.b1-part3-up{
+    height: 100px;
+    background-color: rgb(235, 149, 117);
+}
+.b1-part3-low{
+    height: 300px;
+    background-color: rgb(252, 192, 212);
+}
+.b2{
+    height: 100px;
+    background-color: rgb(104, 104, 179);
+    
+
+}
+.part2{
+    overflow: hidden;
+    width: 30%;
+    float: right;
+    
+}
+.upper{
+    height: 600px;
+    background-color: rgb(116, 181, 207);
+}
+.lower{
+    height: 100px;
+    background-color: rgb(166, 166, 167);
+}
+.second{
+     overflow: hidden;
+     text-align: center;
+}
+.left{
+    background-color: aquamarine;
+     float: left;
+     width: 28%;
+     height: 150px;
+}
+.mid{
+    width: 8%;
+    height:150px;
+     float: left;
+     background-color: rgb(252, 192, 212);
+}
+.right{
+    width: 64%;
+    height: 150px;
+    float: right;
+    background-color: aquamarine;
+}
